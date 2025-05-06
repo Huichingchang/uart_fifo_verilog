@@ -17,6 +17,7 @@ This project implements a UART (Universal Asynchronous Receiver/Transmitter) mod
 | `wave_tb_uart_fifo.png` | Simulation waveform showing correct UART reception and transmission |
 
 ---
+![RTL Diagram](rtl_uart_fifo_ctrl.png)
 
 ## ▶️ Simulation
 
