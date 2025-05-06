@@ -46,9 +46,3 @@ The testbench sends one byte `0xA5` (binary `10100101`) through the RX line usin
 2. Open the Verilog source files in your FPGA design environment
 3. Run the simulation with `tb_uart_fifo.v`
 4. Use `uart_fifo_ctrl.v` as the top-level module for synthesis
-
----
-
-## 📝 License
-
-This project is provided under the MIT License. See [`LICENSE`](LICENSE) file for details.
